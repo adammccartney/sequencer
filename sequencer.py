@@ -17,8 +17,8 @@ c = np.array([[[1, 2, 3], [2, 3, 4], [3, 4, 5]],
               [[1, 2, 4], [2, 3, 5], [3, 4, 5]]])
 print(c.ndim)
 
-# Some fancy business with slicing 
-
+# Some fancy business with slicing
+# Okay, not that fancy business 
 
 # Rhythmic structure
 # The structure is based around a repeating pattern  
@@ -72,7 +72,7 @@ def assert_phrase_length_is_168():
 assert_phrase_length_is_168()
 
 
-#
+# ============================================================================
 # Harmony
 #
 # spans are tuples that reference the ranges of the sequence that are formally
